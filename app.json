@@ -8,27 +8,27 @@
     "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
-            "description": "True/False if your server is web support required? the value is True else False",
+            "true": "True/False if your server is web support required? the value is True else False",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "6149335594:AAGqThjXz9FXOL1QS18b1WJzpF5cBVMM18s": "Your bot token.",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "21814574": "Get this value from https://my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "76950ccd860212311210cbcc2a4bbdd3": "Get this value from https://my.telegram.org",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "1001806459453": "Username or ID of channel or group. Separate multiple IDs by space.",
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "5936007998": "Username or ID of Admin. Separate multiple Admins by space.",
             "required": true
         },
         "SHORT_API": {
@@ -44,7 +44,7 @@
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "1001881972759": "Bot Logs,Give a channel id with -100xxxxxxx",
             "required": true                              
         },
         "AUTH_CHANNEL": {
@@ -62,11 +62,11 @@
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI.",
+            "mongodb+srv://aryan123:aryan123@cluster0.pykcz1r.mongodb.net/?retryWrites=true&w=majority": "mongoDB URI.",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB.",
+            "Cluster0": "Name of the database in mongoDB.",
             "value": "Cluster0",
             "required": false
         },
